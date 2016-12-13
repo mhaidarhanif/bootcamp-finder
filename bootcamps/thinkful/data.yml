@@ -52,7 +52,7 @@ programs:
     tuition: 1500
     tuition_units: USD
     tuition_frequency: monthly
-    reports_graduation_placement_rates: Yes
+    reports_outcomes: Yes
     outcomes_verified: Yes
   full-time-web-development-bootcamp:
     admissions: Open to anyone
