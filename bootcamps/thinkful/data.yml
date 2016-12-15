@@ -24,6 +24,7 @@ programs:
       - raleigh
       - raleigh-durham
     commitment: full-time
+    cost_description: $14,000
     description: >
       Our Flexible Web Development Bootcamp provides an in-depth,
       project-based approach with three 1-on-1 mentor sessions per week. This
@@ -60,6 +61,7 @@ programs:
     cities:
       - remote
     commitment: full-time
+    cost_description: $1,500 per month
     description: >
       Thinkful’s Full Time Web Development Bootcamp shares the same in-depth,
       project-based approach of the Flexible pace. The main difference is that
