@@ -12,3 +12,13 @@ dependencies:
 test:
   override:
     - sh ./script/test
+  post:
+    - 'git config --global user.email "circleci@thinkful.com"'
+    - 'git config --global user.name "CircleCI"'
+    - 'git commit -m "CircleCI: Trigger push webhook"'
+
+deployment:
+  staging:
+    branch: feature/migrate-bootcamp-data
+    commands:
+      - git push origin feature/migrate-bootcamp-data --force
