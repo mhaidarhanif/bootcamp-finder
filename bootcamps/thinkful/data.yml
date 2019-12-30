@@ -432,16 +432,15 @@ programs:
     - washington-dc
     commitment: part-time
     cost_description: $1,590 per month
-    description: !!python/unicode 'Thinkful''s Product Design Flex program is an online, 
+    description: !!python/unicode 'Thinkful''s UX/UI Flex program is an online, 
       flexible training program for busy, career-focused adults to become job-ready designers. 
-      Product Design Flex a holistic learning experience that includes mentorship from skilled 
+      UX/UI Flex a holistic learning experience that includes mentorship from skilled 
       designers, an industry-vetted curriculum, graded assignments, and a community of fellow 
       designers to support you. Over 90% of senior designers say designers need to know how to 
       code in today''s market. You''ll study the design process in depth, including UX research, 
       visual design, and front-end development. You''ll also build a portfolio of real-life projects.
-      
       '
-    display_name: Product Design Flex
+    display_name: UX/UI Flex
     duration: 6
     duration_units: months
     financing: true
@@ -500,7 +499,6 @@ programs:
       students will take part in mock interviews that mimic the real-world job application process. 
       A dedicated career advisor is assigned to each student once course work is complete to guide 
       them and assure future success.
-
       '
     display_name: Product Management Flex
     duration: 6
