@@ -13,6 +13,11 @@
   meta_description: "Find which bootcamps teach algorithm fundamentals so you can have a strong CS foundation and be job-ready"
   description: "The following bootcamps teach algorithms in programming. Using math to solve problems is the key to building some apps."
 
+- display_name: Analytics
+  slug: analytics
+  meta_description: "Compare bootcamps that teach how to find the right data and illustrate it for the rest of the company to shape the high-level marketing strategy."
+  description: "Analyzing a company's past digital marketing efforts in order to make strategic improvements in future digital marketing efforts." 
+
 - display_name: Android
   slug: android
   meta_description: "Compare Android app development bootcamps. Learn how to build phone applications!"
@@ -44,6 +49,11 @@
   slug: big-data
   meta_description: "Compare bootcamps that cover Big Data and start your career processing data today!"
   description: "Big data keeps track of all the information in the world. Get ahead with these bootcamps."
+  
+- display_name: Branding
+  slug: branding
+  meta_description: "Compare bootcamps that cover branding to create a cohesive voice using consistent written content and design elements!"
+  description: "Branding is creating a distinctive and cohesive company identity."
 
 - display_name: "C#"
   slug: c-sharp
@@ -61,15 +71,40 @@
   meta_description: "Find out which bootcamps cover Cocoa application development and start building OSX apps today!"
   description: "Cocoa is Apple's native API for macOS. Learn to build Mac apps with these bootcamps."
 
+- display_name: Content Marketing
+  slug: content-marketing
+  meta_description: "Learn about the different platforms digital marketers use to build an audience. Write copy that compels customers to click, follow, and like!"
+  description: "Content marketing creates and publishes strategic content to promote a company's products and service."
+
 - display_name: CSS
   slug: css
   meta_description: "Learn CSS with these bootcamps and become a front end expert!"
   description: "Cascading Style Sheets make web pages look great. These bootcamps will teach you how to style pages."
-
+  
+- display_name: Campaigns
+  slug: campaigns
+  meta_description: "Learn to create and manage a digital marketing campaign that targets the right audience, communicates a compelling message, and maximizes your company’s ROI."
+  description: "Campaigns are specific efforts that digital marketers make to reach a company goal."
+  
+- display_name: Customer Insights
+  slug: customer-insights
+  meta_description: "Digital marketing efforts are only effective if they resonate with the people you’re trying to reach. Identify your target audience and create content that speaks to them."
+  description: "Customer Insights is an understanding of the demographics and behavior of company's users and target audience."
+  
 - display_name: D3
   slug: d3
   meta_description: "Find out which bootcamps will teach you D3 and learn how to build dynamic web infographics"
   description: "D3 is a visualization library that lets you build infographics, interactive charts, and more. Learn how at these bootcamps."
+
+- display_name: Digital Marketing
+  slug: digital-marketing
+  meta_description: "Learn the technical skills needed to build an audience, create a brand, and drive sales at any of these bootcamps."
+  description: "Digital Marketing uses the internet and online technologies and platforms to promote products and services."
+
+- display_name: Digital Marketing Landscape
+  slug: digital-marketing-landscape
+  meta_description: "Compare bootcamps that cover the constantly evolving state of digital marketing practices!"
+  description: "The constantly evolving state of digital marketing practices."
 
 - display_name: Data Science
   slug: data-science
@@ -81,6 +116,11 @@
   slug: django
   meta_description: "Compare bootcamps that cover Django and start building websites with Python today!"
   description: "Django is a tested and reliable web development framework for Python. These bootcamps teach you to build web apps with Django."
+
+- display_name: Email Marketing
+  slug: email-marketing
+  meta_description: "Email is an essential customer outreach tool used by businesses in every industry. Learn why it’s invaluable, and how to streamline your workload with automation."
+  description: "Email Marketing is creating and sending strategic emails to promote a company's products and service."
 
 - display_name: Ember.js
   slug: ember-js
@@ -320,10 +360,20 @@
   meta_description: "See which bootcamps cover which SDKs and build mobile applications"
   description: "SDKs, or software development kits, allow you to build apps for certain platforms, usually mobile. Learn to work with SDKs at these bootcamps."
 
+- display_name: Search Marketing
+  slug: search-marketing
+  meta_description: "See which bootcamps cover effective search engine marketing for more site traffic, higher conversions, and a lower cost per acquisition than traditional marketing techniques."
+  description: "Search marketing improves a company's search rankings through organic and paid means."
+
 - display_name: Sinatra
   slug: sinatra
   meta_description: "Learn which Ruby bootcamps cover the Sinatra framework"
   description: "Sinatra is a well-known Ruby framework. Learn to write more dynamic Ruby at these Sinatra bootcamps."
+
+- display_name: Social Media Marketing
+  slug: social-media-marketing
+  meta_description: "Learn how digital marketers use social media to connect with their audience, attract new followers, and meet sales goals."
+  description: "Social media marketing involves creating content for and managing a company's social media accounts to promote a company's products and service."
 
 - display_name: SQL
   slug: sql
