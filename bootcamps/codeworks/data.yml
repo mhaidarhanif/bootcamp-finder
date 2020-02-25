@@ -11,7 +11,7 @@ programs:
     - barcelona
     - berlin
     - london
-    - new york
+    - new-york
     - toronto
     - remote
     commitment: full-time
@@ -58,7 +58,7 @@ programs:
     - barcelona
     - berlin
     - london
-    - new York
+    - new-york
     - toronto
     - remote
     commitment: full-time
