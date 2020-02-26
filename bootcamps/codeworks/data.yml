@@ -5,7 +5,7 @@ meta-description: Read Codeworks coding bootcamp reviews.
 primary_email: hello@codeworks.me
 programs:
   software-engineering-immersive:
-    admissions: true
+    admissions: Anyone can apply, but there is an interview process to be admitted
     cities:
     - austin
     - barcelona
@@ -52,7 +52,7 @@ programs:
     tuition: 8,500 to 13,800 (depending on location)
     tuition_units: "USD"
   web-development-immersive:
-    admissions: true
+    admissions: Anyone can apply, but there is an interview process to be admitted
     cities:
     - austin
     - barcelona
