@@ -64,7 +64,7 @@ programs:
     commitment: full-time
     cost_description: "from $ 5,700 to $ 9,200 (depending on location)"
     description: "This program gives you the preparation to become a solid web programmer. Throughout the 8 weeks you learn all the fundamentals of functional programming and get to build 1 personal project. The course includes 2 days of career orientation, interview training, and introduction to hiring partners. At the end of the program you’re able to build full-stack applications and understand advanced coding topics. This is our shortest course and the fastest way to get your developer career kickstarted. For more info, please check: https://codeworks.me/course-web-development-immersive-on-site/"
-    display_name: Software Engineering Immersive
+    display_name: Web Development Immersive
     duration: 8
     duration_units: weeks
     financing: true
