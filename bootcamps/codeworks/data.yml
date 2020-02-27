@@ -5,7 +5,7 @@ meta-description: Read Codeworks coding bootcamp reviews.
 primary_email: hello@codeworks.me
 programs:
   software-engineering-immersive:
-    admissions: Application, interviews, coding assignment
+    admissions: Anyone can apply, but there is an interview process to be admitted
     cities:
     - austin
     - barcelona
@@ -16,7 +16,7 @@ programs:
     - remote
     commitment: full-time
     cost_description: from $ 8,500 to $ 13,800 (depending on location)
-    description: "Our flagship course, and the most complete way to get your engineering career started. Throughout the 12 weeks you learn all the skills of a professional programmer and get to build 3 projects of growing complexity. The course includes 1 week of career orientation, interview training, and introduction to hiring partners. At the end of the program you’re able to make entire applications, and contribute to coding projects of any size. You will learn strong Software Engineering patterns, and understand how to work productively in team with other engineers. For more info, please check: https://codeworks.me/course-software-engineering-immersive-on-site/"
+    description: "Our flagship course, and the most complete way to get your engineering career started. Throughout the 12 weeks you learn all the skills of a professional programmer and get to build 3 projects of growing complexity. The course includes 1 week of career orientation, interview training, and introduction to hiring partners. At the end of the program you’re able to make entire applications, and contribute to coding projects of any size. You will learn strong Software Engineering patterns, and understand how to work productively in team with other engineers. For more info, please check: https://codeworks.me/software-engineering-immersive-course/"
     display_name: Software Engineering Immersive
     duration: 12
     duration_units: weeks
@@ -52,7 +52,7 @@ programs:
     tuition: 8,500 to 13,800 (depending on location)
     tuition_units: "USD"
   web-development-immersive:
-    admissions: Application, interviews, coding assignment
+    admissions: Anyone can apply, but there is an interview process to be admitted
     cities:
     - austin
     - barcelona
@@ -63,8 +63,8 @@ programs:
     - remote
     commitment: full-time
     cost_description: "from $ 5,700 to $ 9,200 (depending on location)"
-    description: "This program gives you the preparation to become a solid web programmer. Throughout the 8 weeks you learn all the fundamentals of functional programming and get to build 1 personal project. The course includes 2 days of career orientation, interview training, and introduction to hiring partners. At the end of the program you’re able to build full-stack applications and understand advanced coding topics. This is our shortest course and the fastest way to get your developer career kickstarted. For more info, please check: https://codeworks.me/course-web-development-immersive-on-site/"
-    display_name: Software Engineering Immersive
+    description: "This program gives you the preparation to become a solid web programmer. Throughout the 8 weeks you learn all the fundamentals of functional programming and get to build 1 personal project. The course includes 2 days of career orientation, interview training, and introduction to hiring partners. At the end of the program you’re able to build full-stack applications and understand advanced coding topics. This is our shortest course and the fastest way to get your developer career kickstarted. For more info, please check: https://codeworks.me/web-development-immersive-course/"
+    display_name: Web Development Immersive
     duration: 8
     duration_units: weeks
     financing: true
