@@ -167,53 +167,6 @@ programs:
     - postgresql
     tuition: 7990
     tuition_units: USD
-  engineering-nights-and-weekends:
-    admissions: Complete prep course and tech evaluation
-    cities:
-    - remote
-    - atlanta
-    - austin
-    - boston
-    - chicago
-    - dallas
-    - denver
-    - detroit
-    - houston
-    - los-angeles
-    - miami
-    - minneapolis
-    - new-york
-    - orlando
-    - philadelphia
-    - phoenix
-    - raleigh
-    - salt-lake-city
-    - san-diego
-    - san-francisco
-    - seattle
-    - tampa
-    - washington-dc
-    commitment: part-time
-    cost_description: $1403 per month
-    description: !!python/unicode 'Thinkful''s Engineering Nights & Weekends is built to get you a job, guaranteed. Learn with instructors, classmates, and 1-on-1 mentorship in a virtual classroom. You''ll deploy tested, fullstack JavaScript applications as you pair program and work in a team environment. The fully online program requires 25 hours per week for 7 months.'
-    display_name: Engineering Nights & Weekends
-    duration: 9
-    duration_units: months
-    financing: true
-    guarantee: !!python/unicode 'Yes - if you don''t get a job in tech within 6 months of graduation, Thinkful will reimburse your tuition'
-    outcomes_verified: true
-    placement: Over 80% of our web development graduates have found full-time employment within 6 months of graduating.
-    reports_outcomes: true
-    scholarships: For women and veterans
-    topics:
-    - react
-    - node-js
-    - javascript
-    - html
-    - css
-    - git
-    tuition:
-    tuition_units: USD   
   flexible-data-analytics-bootcamp:
     admissions: Complete an interview to make sure your learning preferences and schedule aligns with the course
     cities:
